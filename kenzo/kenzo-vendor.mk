@@ -844,7 +844,8 @@ PRODUCT_COPY_FILES += \
     vendor/xiaomi/kenzo/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/xiaomi/kenzo/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/xiaomi/kenzo/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so \
-    vendor/xiaomi/kenzo/proprietary/vendor/qcril.db:system/vendor/qcril.db
+    vendor/xiaomi/kenzo/proprietary/vendor/qcril.db:system/vendor/qcril.db \
+    vendor/xiaomi/kenzo/proprietary/vendor/lib64/libuiblur.so:system/vendor/lib64/libuiblur.so
 
 PRODUCT_PACKAGES += \
     libloc_api_v02 \
